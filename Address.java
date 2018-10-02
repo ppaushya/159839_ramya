@@ -1,4 +1,4 @@
-package org.cap.project;
+package parallel_pro;
 
 public class Address {
 String Street_name;
